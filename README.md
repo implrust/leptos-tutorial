@@ -23,3 +23,16 @@
 
 # cargo commands
 - cargo --list
+
+# learned
+- 3.1 A Basic Component ✅
+    - signals 
+    - ReadSignal, WriteSignal, RWSignal, 
+    - .get(), .set(), .with(), .update(), .get_untracked()
+
+- 3.2 Dynamic Attributes ✅
+    - trunk.toml
+    - dynamic attributes, styles
+    - set css variables for stylesheet
+    - derived signals
+    - injecting raw html
