@@ -24,7 +24,7 @@
 # cargo commands
 - cargo --list
 
-# learned
+# content
 - 3.1 A Basic Component ✅
     - signals 
     - ReadSignal, WriteSignal, RWSignal, 
@@ -36,3 +36,12 @@
     - set css variables for stylesheet
     - derived signals
     - injecting raw html
+
+- 3.3 Components and Props
+    - components
+    - props: optional, default,
+    - passing value to components 
+        - via props (signals, functions)
+    - into props, optional generic props
+    - documenting components
+    - spread attr ref: https://github.com/leptos-rs/leptos/blob/main/examples/spread/src/lib.rs
