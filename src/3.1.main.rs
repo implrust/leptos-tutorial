@@ -1,3 +1,4 @@
+//3.1 A Basic Component
 use leptos::prelude::*;
 
 /// optional props
