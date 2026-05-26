@@ -1,4 +1,5 @@
 # leptos-tutorial
+- https://github.com/implrust/leptos-tutorial
 
 # environment setup commands
 - cargo install trunk
@@ -71,7 +72,15 @@
 <p align="center">
   <img src="./screenshots/ch3/3.4.1a.static-view.png" width="540" alt="Alt text">
 </p>    
-    <h5>3.4.1 a Static Views - Dynamic Content</h5>
+<h5>3.4.1 b Static Views - Dynamic Content</h5>
 <p align="center">
   <img src="./screenshots/ch3/3.4.1b.static-view-dyn-content.png" width="540" alt="Alt text">
+</p>    
+<h5>3.4.2 Static List (Dynamic Content) - Dynamic List (Dynamic Content)</h5>
+<p align="center">
+  <img src="./screenshots/ch3/3.4.2.dyn-list-dyn-content.png" width="540" alt="Alt text">
+</p>    
+<h5>3.4.3 Accessing an index while iterating with ForEnumerate</h5>
+<p align="center">
+  <img src="./screenshots/ch3/3.4.3.for-enumerate.png" width="540" alt="Alt text">
 </p>    
